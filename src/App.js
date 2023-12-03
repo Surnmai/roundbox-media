@@ -17,9 +17,9 @@ function App() {
             </h3>
 
             {/* logo  */}
-            <a className="cursor-pointer item">
+            <div className="cursor-pointer item">
               <img src={Logo} alt="logo" className="w-[10rem] " />
-            </a>
+            </div>
           </div>
 
           {/* text and contact  */}
