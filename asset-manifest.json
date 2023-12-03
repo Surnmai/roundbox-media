@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roundbox-media/static/css/main.e17829a1.css",
+    "main.js": "/roundbox-media/static/js/main.38666887.js",
+    "static/media/BG2-only.jpg": "/roundbox-media/static/media/BG2-only.7f05a4d7e6906af86c97.jpg",
+    "static/media/roundbox.png": "/roundbox-media/static/media/roundbox.c2465e2190179ac27a9e.png",
+    "index.html": "/roundbox-media/index.html",
+    "main.e17829a1.css.map": "/roundbox-media/static/css/main.e17829a1.css.map",
+    "main.38666887.js.map": "/roundbox-media/static/js/main.38666887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17829a1.css",
+    "static/js/main.38666887.js"
+  ]
+}
