@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Surnmai.github.io/roundbox-media",
+  "/.": "http://Surnmai.github.io/roundbox-media",
   "name": "roundbox-media",
   "version": "0.1.0",
   "private": true,
