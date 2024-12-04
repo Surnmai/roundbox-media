@@ -27,7 +27,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        hero: "url('/src/img/BG2-only.jpg')",
+        hero: "url('/src/img/BG1-only.jpg')",
       },
       colors: {
         primary: "#fcd42f",

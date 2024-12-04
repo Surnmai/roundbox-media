@@ -55,7 +55,7 @@ function App() {
           </div>
 
           {/* gradiant border  */}
-          <div className="translate-y-32 rounded-md h-10 w-full bg-gradient-to-r from-black from-30% via-red-800 via-60% to-sky-500 to-90%"></div>
+          {/* <div className="translate-y-32 rounded-md h-10 w-full bg-gradient-to-r from-black from-30% via-red-800 via-60% to-sky-500 to-90%"></div> */}
 
           {/* bottom text  */}
           <div className="flex justify-between translate-y-[8rem] text-2xl">
