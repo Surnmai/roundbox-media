@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa";
 function App() {
   return (
     <>
-      <section className="bg-hero h-screen w-full bg-cover bg-no-repeat bg-center relative">
+      <section className="bg-hero h-[70rem] w-full bg-cover bg-no-repeat bg-center relative">
         <div className="container">
           {/* title and logo  */}
           <div className="flex items-center justify-between mb-8 md:mb-8 ">
